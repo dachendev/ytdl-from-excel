@@ -1,4 +1,4 @@
-# ytdl-from-xlsx
+# ytdl-from-excel
 
 This simple app takes an Excel workbook with a column full of youtube links and 
 downloads them as mp3 files.
